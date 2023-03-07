@@ -43,3 +43,11 @@ function finalGrade (exam, projects) {
 ---
 ### Education:
 - Univeristy: Georgia Technical University
+
+---
+## Languages:
+- Georgian - Native
+- Russian - Basic
+- English - Intermediate
+
+![Result from efset.org](images/esp.png)
