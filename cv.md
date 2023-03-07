@@ -50,4 +50,4 @@ function finalGrade (exam, projects) {
 - Russian - Basic
 - English - Intermediate
 
-![Result from efset.org](./images/esp.png)
+![Result from efset.org](./images/esp.PNG)
