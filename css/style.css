@@ -31,3 +31,30 @@ img {
 .my-name {
   word-spacing: 3px;
 }
+
+.navigation{
+  padding: 0 20px;
+  border-bottom: 5px solid rgb(141, 131, 100);
+}
+
+.nav-items{
+  display: flex;
+  justify-content: space-between;
+  padding: 0;
+}
+
+.nav-item{
+  list-style: none;
+}
+
+.item-link{
+  text-decoration: none;
+  color: #000;
+  text-transform: capitalize;
+  font-size: 20px;
+}
+
+.item-link:hover{
+  color: #5f5a5a;
+  font-size: 22px;
+}
