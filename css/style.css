@@ -102,3 +102,25 @@ section {
 .course-item span {
   color: rgb(141, 131, 100);
 }
+
+.footer-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.creation-time {
+  color: rgb(141, 129, 97);
+  font-size: 30px;
+}
+
+.github-link {
+  color: rgb(141, 129, 97);
+  text-decoration: none;
+  font-size: 25px;
+  transition: ease .5s;
+}
+
+.github-link:hover {
+  color: rgb(94, 86, 65);
+}
